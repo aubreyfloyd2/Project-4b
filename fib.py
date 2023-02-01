@@ -2,7 +2,7 @@
 # GitHub username: aubreyfloyd2
 # Date: 1/30/2023
 # Description: Function that takes a positive integer parameter and returns the number
-#              at that position of the Fibonacci sequence.
+#              at that position of the Fibonacci sequence
 
 def fib(x):
     """Returns the Fibonacci number at the xth position of the Fibonacci sequence"""
